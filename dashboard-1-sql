@@ -1,0 +1,6 @@
+# Dashboard 1 – SQL
+
+Este documento reúne algunas consultas utilizadas como borrador para explorar y validar información en la base de datos **Sakila**.  
+Se incluyen cálculos de recaudación, cantidad de alquileres, conteos, promedios y pruebas con CTE.
+
+---
