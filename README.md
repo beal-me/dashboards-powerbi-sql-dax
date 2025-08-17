@@ -8,11 +8,11 @@ Cada dashboard estará acompañado por los archivos correspondientes de consulta
 
 Los archivos estarán organizados de manera simple y progresiva, utilizando una numeración para mantener el orden:  
 
-- 📊 `dashboard-1.pbix` → Archivo del primer dashboard en Power BI.  
+- 📊 `dashboard-1.jpg` → Archivo del primer dashboard en Power BI.  
 - 📝 `dashboard-1-sql.sql` → Consultas SQL utilizadas para control de calidad de datos del dashboard 1.  
 - 🔢 `dashboard-1-dax.md` → Medidas DAX aplicadas en el dashboard 1.  
 
-- 📊 `dashboard-2.pbix` → Archivo del segundo dashboard.  
+- 📊 `dashboard-2.jpg` → Archivo del segundo dashboard.  
 - 📝 `dashboard-2-sql.sql` → Consultas SQL utilizadas en el dashboard 2.  
 - 🔢 `dashboard-2-dax.md` → Medidas DAX aplicadas en el dashboard 2.  
   
